@@ -1,0 +1,62 @@
+body{
+background-color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+
+   
+}
+
+
+  .icone{
+      width: 30px;
+  }
+ .logo{
+     width: 100px;
+ }
+ 
+ .films{
+    width: 150px;
+}
+hr{
+    color: black;
+}
+.films , .commentaires{
+   font-family:  arial,Times, "Times New Roman", serif ;
+}
+.commentaires{
+    font-size: 30px;
+ }
+
+.paroles{
+    
+    box-shadow: 500px 50px 1000px black;
+}
+.suite{
+    font-size: 30px;
+}
+
+header{
+    background-color: black;
+}
+.fin{
+    font-size: 30px;
+}
+main{
+    background-image: url(../image/va3.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.section1{
+background-color:transparent;
+}
+.section2{
+    background-color: rgba(0, 0, 0, 0.671);
+    }
+    .section3{
+        background-color:transparent;
+        }.section4{
+            background-color: rgba(0, 0, 0, 0.671);
+            
+            }
+           

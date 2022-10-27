@@ -1,0 +1,34 @@
+
+   
+   .header{
+       background: black;   
+   }
+   body{
+    background: black;   
+}
+   .img_stars_wars{
+       width: 165px;
+     
+   }
+ 
+   .menu_contenaire{
+      
+       font-size: 15px;
+   
+    }
+   li{
+       margin: 5px;
+   }
+
+   .header{
+    background: no-repeat url("/image/fond2.jpg");
+       height: 100%;
+       background-size: cover;   
+       background-position: center;
+    }
+    
+  .logo{
+      width: 100px;
+  }
+
+  
